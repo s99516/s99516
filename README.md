@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on an app for gym enthusiasts<br>🌱 I’m currently learning AWS Cloud<br>💬 Ask me about C# connected topics<br>⚡ Fun fact - My first code was "Hello, World!" in C++ 
+🔭 I’m currently working on an app for gym enthusiasts<br>🌱 I’m currently learning AWS Cloud<br>💬 Ask me about C# connected topics<br>⚡ Fun fact - My first code was "Hello, World!" in C++ 
 
 
 ## 🌐 Socials:
